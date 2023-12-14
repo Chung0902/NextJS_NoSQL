@@ -4,6 +4,7 @@ import Link from 'next/link';
 import ProductGallery from '../../components/ProductGallery';
 import { FaRocketchat, FaCommentDots, FaCommentsDollar } from "react-icons/fa";
 
+
 function Main({ suppliers }) {
     return (
         <main className='body-content'>
